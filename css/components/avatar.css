@@ -1,0 +1,14 @@
+/* avatar.css */
+
+.avatar-container {
+    text-align: center; /* Center avatar and button */
+    margin: 40px 0; /* Margin above and below */
+}
+
+.avatar {
+    width: 120px; /* Width of avatar */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Circle shape */
+    border: 3px solid white; /* White border */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3); /* Shadow for depth */
+}

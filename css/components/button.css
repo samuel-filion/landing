@@ -1,0 +1,18 @@
+/* button.css */
+
+.btn-blue {
+    display: inline-block; /* Inline-block for button */
+    padding: 15px 30px; /* Padding */
+    background-color: #007bff; /* Button color */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    text-transform: uppercase; /* Uppercase text */
+    text-decoration: none; /* No underline */
+    font-weight: bold; /* Bold text */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.btn-blue:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
